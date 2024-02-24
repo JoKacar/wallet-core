@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:focal-20240123
 
 # Install some basics
 RUN apt-get update \
