@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20240123
+FROM ubuntu:focal-20240216
 
 # Install some basics
 RUN apt-get update \
